@@ -30,7 +30,7 @@ Terus mengembangkan kemampuan di bidang cybersecurity dan membangun karier sebag
 
 ---
 
-https://github.com/irsyadbay/sertifikat/blob/main/photo_6224440363020128064_x.jpg
+
 
 ##  Catatan
 Sertifikat dan bukti pendukung tersedia dalam repositori ini sebagai bagian dari perjalanan belajar dan pengembangan skill saya.
